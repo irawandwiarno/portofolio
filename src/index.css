@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+  --font-urbanist: Urbanist, sans-serif;
+}
+
+body {
+  @apply bg-slate-900;
+  font-family: 'Urbanist', sans-serif;
+}
