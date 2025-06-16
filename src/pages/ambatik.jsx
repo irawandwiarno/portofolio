@@ -89,7 +89,8 @@ const Ambathik = () => {
             </ul>
           </nav>
           <a
-            href=""
+          target="_blank"
+            href="https://drive.google.com/drive/folders/1ignigbNkMVQ2qorEQ2DxpCYq__NPh_lT?usp=sharing"
             className="flex bg-teal-500 h-15 w-60 text-2xl font-semibold rounded-4xl justify-center items-center"
           >
             <p className="pr-5">Download</p>
